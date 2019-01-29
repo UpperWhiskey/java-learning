@@ -4,7 +4,7 @@ Learning java
 
 >Basic things developed in Java - Udemy
 
-# Systems
+# System
 
 Fedora 26
 Kernel 4.17.19-100.fc27.x86_64
